@@ -44,20 +44,31 @@ namespace Keyyum.DAL
             T _entity = nContext.Set<T>().FirstOrDefault<T>(whereLambda);
             return _entity;
         }
-        public IQueryable<T> FindList<S>(Expression<Func<T, bool>> whereLamdba, bool isAsc, Expression<Func<T, S>> orderLamdba)
+
+        private IQueryable<T> OrderBy(IQueryable<T> source, string propertyName, bool isAsc)
+        {
+            if (source == null) throw new ArgumentNullException("source", "不能为空");
+            if (string.IsNullOrEmpty(propertyName)) return source;
+            var _parameter = Expression.Parameter(source.ElementType);
+            var _property = Expression.Property(_parameter, propertyName);
+            if (_property == null) throw new ArgumentNullException("propertyName", "属性不存在");
+            var _lambda = Expression.Lambda(_property, _parameter);
+            var _methodName = isAsc ? "OrderBy" : "OrderByDescending";
+            var _resultExpression = Expression.Call(typeof(Queryable), _methodName, new Type[] { source.ElementType, _property.Type }, source.Expression, Expression.Quote(_lambda));
+            return source.Provider.CreateQuery<T>(_resultExpression);
+        }
+        public IQueryable<T> FindList<S>(Expression<Func<T, bool>> whereLamdba,string orderName, bool isAsc)
         {
             var _list = nContext.Set<T>().Where<T>(whereLamdba);
-            if (isAsc) _list = _list.OrderBy<T, S>(orderLamdba);
-            else _list = _list.OrderByDescending<T, S>(orderLamdba);
+            _list = OrderBy(_list, orderName, isAsc);
             return _list;
         }
 
-        public IQueryable<T> FindPageList<S>(int pageIndex, int pageSize, out int totalRecord, Expression<Func<T, bool>> whereLamdba, bool isAsc, Expression<Func<T, S>> orderLamdba)
+        public IQueryable<T> FindPageList<S>(int pageIndex, int pageSize, out int totalRecord, Expression<Func<T, bool>> whereLamdba,string orderName, bool isAsc)
         {
             var _list = nContext.Set<T>().Where<T>(whereLamdba);
             totalRecord = _list.Count();
-            if (isAsc) _list = _list.OrderBy<T, S>(orderLamdba).Skip<T>((pageIndex - 1) * pageSize).Take<T>(pageSize);
-            else _list = _list.OrderByDescending<T, S>(orderLamdba).Skip<T>((pageIndex - 1) * pageSize).Take<T>(pageSize);
+            _list = OrderBy(_list, orderName, isAsc).Skip<T>((pageIndex - 1) * pageSize).Take<T>(pageSize);
             return _list;
         }
     }

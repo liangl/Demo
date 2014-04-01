@@ -42,9 +42,9 @@ namespace Keyyum.IDAL
 
         T Find(Expression<Func<T, bool>> whereLambda);
 
-        IQueryable<T> FindList<S>(Expression<Func<T, bool>> whereLamdba, bool isAsc, Expression<Func<T, S>> orderLamdba);
+        IQueryable<T> FindList(Expression<Func<T, bool>> whereLamdba,string orderName, bool isAsc);
 
-        IQueryable<T> FindPageList<S>(int pageIndex, int pageSize, out int totalRecord, Expression<Func<T, bool>> whereLamdba, bool isAsc, Expression<Func<T, S>> orderLamdba);
+        IQueryable<T> FindPageList(int pageIndex, int pageSize, out int totalRecord, Expression<Func<T, bool>> whereLamdba,string orderName, bool isAsc);
 
     }
 }
