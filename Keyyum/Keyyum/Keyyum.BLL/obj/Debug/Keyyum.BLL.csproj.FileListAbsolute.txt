@@ -1,0 +1,13 @@
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.BLL\bin\Debug\Keyyum.BLL.dll
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.BLL\bin\Debug\Keyyum.BLL.pdb
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.BLL\bin\Debug\Keyyum.DAL.dll
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.BLL\bin\Debug\Keyyum.IBLL.dll
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.BLL\bin\Debug\Keyyum.IDAL.dll
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.BLL\bin\Debug\Keyyum.Models.dll
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.BLL\bin\Debug\Keyyum.DAL.pdb
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.BLL\bin\Debug\Keyyum.IBLL.pdb
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.BLL\bin\Debug\Keyyum.IDAL.pdb
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.BLL\bin\Debug\Keyyum.Models.pdb
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.BLL\obj\Debug\Keyyum.BLL.csprojResolveAssemblyReference.cache
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.BLL\obj\Debug\Keyyum.BLL.dll
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.BLL\obj\Debug\Keyyum.BLL.pdb

@@ -1,0 +1,14 @@
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.DAL\bin\Debug\Keyyum.DAL.dll.config
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.DAL\bin\Debug\Keyyum.DAL.dll
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.DAL\bin\Debug\Keyyum.DAL.pdb
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.DAL\bin\Debug\EntityFramework.dll
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.DAL\bin\Debug\Keyyum.IDAL.dll
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.DAL\bin\Debug\Keyyum.Models.dll
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.DAL\bin\Debug\Keyyum.IDAL.pdb
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.DAL\bin\Debug\Keyyum.Models.pdb
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.DAL\bin\Debug\EntityFramework.xml
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.DAL\obj\Debug\Keyyum.DAL.csprojResolveAssemblyReference.cache
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.DAL\obj\Debug\Keyyum.DAL.dll
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.DAL\obj\Debug\Keyyum.DAL.pdb

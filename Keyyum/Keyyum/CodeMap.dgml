@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" Layout="Sugiyama" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 Namespace=::)" Category="CodeSchema_Namespace" Bounds="193.417305630469,4.41068163194123,62.7333333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="::" />
+    <Node Id="(@1 Namespace=Keyyum.Web)" Category="CodeSchema_Namespace" Bounds="193.417243880628,59.3828873815793,131.766816213333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Keyyum‎.Web" />
+    <Node Id="(@1 Namespace=Keyyum.Web.Controllers)" Category="CodeSchema_Namespace" Bounds="193.417305630469,114.355093131217,197.203333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Keyyum‎.Web‎.Controllers" />
+    <Node Id="(@11 Namespace=Keyyum.Common)" Category="CodeSchema_Namespace" Bounds="-13.0092902825106,344.315985461697,158.044437413333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Keyyum‎.Common" />
+    <Node Id="(@13 Namespace=Keyyum.Models)" Category="CodeSchema_Namespace" Bounds="215.006613401572,229.346410631228,147.544437413333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Keyyum‎.Models" />
+    <Node Id="(@3 Namespace=Keyyum.DAL)" Category="CodeSchema_Namespace" Bounds="-7.94928074005443,-20.7841803611158,128.842375786667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Keyyum‎.DAL" />
+    <Node Id="(@5 Namespace=Keyyum.IDAL)" Category="CodeSchema_Namespace" Bounds="-8.93123255089023,199.176781039534,132.344437413333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Keyyum‎.IDAL" />
+    <Node Id="(@7 Namespace=Keyyum.BLL)" Category="CodeSchema_Namespace" Bounds="-0.634253980928321,-135.774613564709,124.972537386667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Keyyum‎.BLL" />
+    <Node Id="(@9 Namespace=Keyyum.IBLL)" Category="CodeSchema_Namespace" Bounds="194.306723182596,-110.643268249297,128.472537386667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Keyyum‎.IBLL" />
+    <Node Id="@10" Category="CodeSchema_Assembly" Bounds="174.328188745201,-150.606301396147,168.472537386667,85.0002" CodeSchemaProperty_StrongName="Keyyum.IBLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="1" FilePath="$(ba95338e-7d43-4e45-b855-b075111710ac.OutputPath)" Group="Expanded" Label="Keyyum.IBLL.dll" UseManualLocation="True" />
+    <Node Id="@12" Category="CodeSchema_Assembly" Bounds="-33.0143101583216,304.338562655516,198.044437413333,85.0002" CodeSchemaProperty_StrongName="Keyyum.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="1" FilePath="$(aff83e6f-1cb7-42c4-9981-74fb1b6bdcf3.OutputPath)" Group="Expanded" Label="Keyyum.Common.dll" UseManualLocation="True" />
+    <Node Id="@14" Category="CodeSchema_Assembly" Bounds="195.014453401572,189.362090631228,187.528757413333,84.97648" CodeSchemaProperty_StrongName="Keyyum.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="1" FilePath="$(3c7a750e-71cf-4c94-a934-a4f8cab2bf13.OutputPath)" Group="Expanded" Label="Keyyum.Models.dll" UseManualLocation="True" />
+    <Node Id="@2" Category="CodeSchema_Assembly" Bounds="173.409320143312,-35.6383593883725,237.203395083175,195.0004" CodeSchemaProperty_StrongName="Keyyum.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="3" FilePath="$(351ffdfa-ace7-4c5a-810c-bfdbaa15ed02.OutputPath)" Group="Expanded" Label="Keyyum.Web.dll" UseManualLocation="True" />
+    <Node Id="@4" Category="CodeSchema_Assembly" Bounds="-27.9527840181904,-60.7770735775087,168.842375786667,85.0002" CodeSchemaProperty_StrongName="Keyyum.DAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="1" FilePath="$(2b52f30b-0f8c-476b-afdf-26fa6352feb4.OutputPath)" Group="Expanded" Label="Keyyum.DAL.dll" UseManualLocation="True" />
+    <Node Id="@6" Category="CodeSchema_Assembly" Bounds="-28.9283500153899,159.174727325036,172.344437413333,85.0002000000001" CodeSchemaProperty_StrongName="Keyyum.IDAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="1" FilePath="$(69eccdab-b052-49bf-85a2-72c4300821b5.OutputPath)" Group="Expanded" Label="Keyyum.IDAL.dll" UseManualLocation="True" />
+    <Node Id="@8" Category="CodeSchema_Assembly" Bounds="-20.6316939809283,-175.769493564709,164.967417386667,84.99232" CodeSchemaProperty_StrongName="Keyyum.BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="1" FilePath="$(723d4a0e-e7fc-4a65-b601-fa787645bddb.OutputPath)" Group="Expanded" Label="Keyyum.BLL.dll" UseManualLocation="True" />
+  </Nodes>
+  <Links>
+    <Link Source="@10" Target="(@9 Namespace=Keyyum.IBLL)" Category="Contains" FetchingParent="@10" />
+    <Link Source="@12" Target="(@11 Namespace=Keyyum.Common)" Category="Contains" FetchingParent="@12" />
+    <Link Source="@14" Target="(@13 Namespace=Keyyum.Models)" Category="Contains" FetchingParent="@14" />
+    <Link Source="@2" Target="(@1 Namespace=::)" Category="Contains" FetchingParent="@2" />
+    <Link Source="@2" Target="(@1 Namespace=Keyyum.Web)" Category="Contains" FetchingParent="@2" />
+    <Link Source="@2" Target="(@1 Namespace=Keyyum.Web.Controllers)" Category="Contains" FetchingParent="@2" />
+    <Link Source="@4" Target="(@3 Namespace=Keyyum.DAL)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@6" Target="(@5 Namespace=Keyyum.IDAL)" Category="Contains" FetchingParent="@6" />
+    <Link Source="@8" Target="(@7 Namespace=Keyyum.BLL)" Category="Contains" FetchingParent="@8" />
+  </Links>
+  <Categories>
+    <Category Id="CodeSchema_Assembly" Label="程序集" BasedOn="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Assembly" NavigationActionLabel="程序集" />
+    <Category Id="CodeSchema_Namespace" Label="命名空间" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Type" Icon="CodeSchema_Namespace" NavigationActionLabel="命名空间" />
+    <Category Id="Contains" Label="包含" Description="链接的源是否包含目标对象" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="包含者" IsContainment="True" OutgoingActionLabel="包含" />
+    <Category Id="File" Label="文件" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="File" NavigationActionLabel="文件" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_StrongName" Label="StrongName" Description="StrongName" DataType="System.String" />
+    <Property Id="DataVirtualized" Label="已虚拟化数据" Description="如果为 true，则图中可以包含表示虚拟化节点/链接(即，不在图中实际创建)的数据的节点和链接。" DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="DelayedChildNodesState" Label="延迟的子节点状态" Description="如果未指定延迟的子节点状态，则为 Unspecified。如果尚未将组包含的子节点提取到关系图中，则为 NotFetched。如果已提取组内的所有延迟的子节点，则为 Fetched。" DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="DelayedCrossGroupLinksState" Label="延迟的跨组链接状态" Description="如果未指定延迟的跨组链接状态，则为 Unspecified。如果尚未将此节点上延迟的跨组链接提取到关系图中，则为 NotFetched。如果已提取所有延迟的跨组链接，则为 Fetched。" DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="FetchedChildrenCount" DataType="System.Int32" />
+    <Property Id="FetchingParent" DataType="Microsoft.VisualStudio.GraphModel.GraphNodeId" />
+    <Property Id="FilePath" Label="文件路径" Description="文件路径" DataType="System.String" />
+    <Property Id="Group" Label="组" Description="将节点显示为组" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" Label="图标" Description="图标" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="Label" Label="标签" Description="可批注对象的可显示标签" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="UseManualLocation" DataType="System.Boolean" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="程序集" ValueType="Uri" />
+    <Name Id="Namespace" Label="命名空间" ValueType="System.String" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(351ffdfa-ace7-4c5a-810c-bfdbaa15ed02.OutputPathUri)" />
+    <Alias n="2" Id="(@1)" />
+    <Alias n="3" Uri="Assembly=$(2b52f30b-0f8c-476b-afdf-26fa6352feb4.OutputPathUri)" />
+    <Alias n="4" Id="(@3)" />
+    <Alias n="5" Uri="Assembly=$(69eccdab-b052-49bf-85a2-72c4300821b5.OutputPathUri)" />
+    <Alias n="6" Id="(@5)" />
+    <Alias n="7" Uri="Assembly=$(723d4a0e-e7fc-4a65-b601-fa787645bddb.OutputPathUri)" />
+    <Alias n="8" Id="(@7)" />
+    <Alias n="9" Uri="Assembly=$(ba95338e-7d43-4e45-b855-b075111710ac.OutputPathUri)" />
+    <Alias n="10" Id="(@9)" />
+    <Alias n="11" Uri="Assembly=$(aff83e6f-1cb7-42c4-9981-74fb1b6bdcf3.OutputPathUri)" />
+    <Alias n="12" Id="(@11)" />
+    <Alias n="13" Uri="Assembly=$(3c7a750e-71cf-4c94-a934-a4f8cab2bf13.OutputPathUri)" />
+    <Alias n="14" Id="(@13)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="结果" ValueLabel="True">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="程序集" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="命名空间" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="接口" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="结构" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="枚举" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="委托" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="类" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="属性" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="方法" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="事件" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="字段" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Out Parameter" ValueLabel="True">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Parameter" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Local Variable" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="外部" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Read" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Target.HasCategory('CodeSchema_Field') And HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="2b52f30b-0f8c-476b-afdf-26fa6352feb4.OutputPath" Value="c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.DAL\bin\Debug\Keyyum.DAL.dll" />
+    <Path Id="2b52f30b-0f8c-476b-afdf-26fa6352feb4.OutputPathUri" Value="file:///c:/users/liangl/documents/visual studio 2013/Projects/Keyyum/Keyyum.DAL/bin/Debug/Keyyum.DAL.dll" />
+    <Path Id="351ffdfa-ace7-4c5a-810c-bfdbaa15ed02.OutputPath" Value="c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.Web\bin\Keyyum.Web.dll" />
+    <Path Id="351ffdfa-ace7-4c5a-810c-bfdbaa15ed02.OutputPathUri" Value="file:///c:/users/liangl/documents/visual studio 2013/Projects/Keyyum/Keyyum.Web/bin/Keyyum.Web.dll" />
+    <Path Id="3c7a750e-71cf-4c94-a934-a4f8cab2bf13.OutputPath" Value="c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.Models\bin\Debug\Keyyum.Models.dll" />
+    <Path Id="3c7a750e-71cf-4c94-a934-a4f8cab2bf13.OutputPathUri" Value="file:///c:/users/liangl/documents/visual studio 2013/Projects/Keyyum/Keyyum.Models/bin/Debug/Keyyum.Models.dll" />
+    <Path Id="69eccdab-b052-49bf-85a2-72c4300821b5.OutputPath" Value="c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.IDAL\bin\Debug\Keyyum.IDAL.dll" />
+    <Path Id="69eccdab-b052-49bf-85a2-72c4300821b5.OutputPathUri" Value="file:///c:/users/liangl/documents/visual studio 2013/Projects/Keyyum/Keyyum.IDAL/bin/Debug/Keyyum.IDAL.dll" />
+    <Path Id="723d4a0e-e7fc-4a65-b601-fa787645bddb.OutputPath" Value="c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.BLL\bin\Debug\Keyyum.BLL.dll" />
+    <Path Id="723d4a0e-e7fc-4a65-b601-fa787645bddb.OutputPathUri" Value="file:///c:/users/liangl/documents/visual studio 2013/Projects/Keyyum/Keyyum.BLL/bin/Debug/Keyyum.BLL.dll" />
+    <Path Id="aff83e6f-1cb7-42c4-9981-74fb1b6bdcf3.OutputPath" Value="c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.Common\bin\Debug\Keyyum.Common.dll" />
+    <Path Id="aff83e6f-1cb7-42c4-9981-74fb1b6bdcf3.OutputPathUri" Value="file:///c:/users/liangl/documents/visual studio 2013/Projects/Keyyum/Keyyum.Common/bin/Debug/Keyyum.Common.dll" />
+    <Path Id="ba95338e-7d43-4e45-b855-b075111710ac.OutputPath" Value="c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.IBLL\bin\Debug\Keyyum.IBLL.dll" />
+    <Path Id="ba95338e-7d43-4e45-b855-b075111710ac.OutputPathUri" Value="file:///c:/users/liangl/documents/visual studio 2013/Projects/Keyyum/Keyyum.IBLL/bin/Debug/Keyyum.IBLL.dll" />
+  </Paths>
+</DirectedGraph>

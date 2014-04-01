@@ -1,0 +1,10 @@
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.Models\bin\Debug\Keyyum.Models.dll.config
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.Models\bin\Debug\Keyyum.Models.dll
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.Models\bin\Debug\Keyyum.Models.pdb
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.Models\bin\Debug\EntityFramework.dll
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.Models\bin\Debug\EntityFramework.xml
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.Models\obj\Debug\Keyyum.Models.csprojResolveAssemblyReference.cache
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.Models\obj\Debug\Keyyum.Models.dll
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.Models\obj\Debug\Keyyum.Models.pdb

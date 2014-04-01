@@ -1,0 +1,7 @@
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.IDAL\bin\Debug\Keyyum.IDAL.dll
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.IDAL\bin\Debug\Keyyum.IDAL.pdb
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.IDAL\bin\Debug\Keyyum.Models.dll
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.IDAL\bin\Debug\Keyyum.Models.pdb
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.IDAL\obj\Debug\Keyyum.IDAL.csprojResolveAssemblyReference.cache
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.IDAL\obj\Debug\Keyyum.IDAL.dll
+c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.IDAL\obj\Debug\Keyyum.IDAL.pdb
