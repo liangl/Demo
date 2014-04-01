@@ -5,3 +5,10 @@ c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.IBLL\bin\Deb
 c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.IBLL\obj\Debug\Keyyum.IBLL.csprojResolveAssemblyReference.cache
 c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.IBLL\obj\Debug\Keyyum.IBLL.dll
 c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.IBLL\obj\Debug\Keyyum.IBLL.pdb
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.IBLL\bin\Debug\Keyyum.IBLL.dll
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.IBLL\bin\Debug\Keyyum.IBLL.pdb
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.IBLL\bin\Debug\Keyyum.Models.dll
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.IBLL\bin\Debug\Keyyum.Models.pdb
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.IBLL\obj\Debug\Keyyum.IBLL.csprojResolveAssemblyReference.cache
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.IBLL\obj\Debug\Keyyum.IBLL.dll
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.IBLL\obj\Debug\Keyyum.IBLL.pdb

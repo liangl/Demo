@@ -12,3 +12,17 @@ c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.DAL\bin\Debu
 c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.DAL\obj\Debug\Keyyum.DAL.csprojResolveAssemblyReference.cache
 c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.DAL\obj\Debug\Keyyum.DAL.dll
 c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.DAL\obj\Debug\Keyyum.DAL.pdb
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.DAL\obj\Debug\Keyyum.DAL.csprojResolveAssemblyReference.cache
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.DAL\obj\Debug\Keyyum.DAL.dll
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.DAL\obj\Debug\Keyyum.DAL.pdb
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.DAL\bin\Debug\Keyyum.DAL.dll.config
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.DAL\bin\Debug\Keyyum.DAL.dll
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.DAL\bin\Debug\Keyyum.DAL.pdb
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.DAL\bin\Debug\EntityFramework.dll
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.DAL\bin\Debug\Keyyum.IDAL.dll
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.DAL\bin\Debug\Keyyum.Models.dll
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.DAL\bin\Debug\Keyyum.IDAL.pdb
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.DAL\bin\Debug\Keyyum.Models.pdb
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.DAL\bin\Debug\EntityFramework.xml
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.DAL\bin\Debug\EntityFramework.SqlServer.xml

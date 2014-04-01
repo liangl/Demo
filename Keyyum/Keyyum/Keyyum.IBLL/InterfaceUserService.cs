@@ -11,7 +11,7 @@ namespace Keyyum.IBLL
     {
         bool Exist(string username);
 
-        User Find(int userID);
+        User Find(Guid userID);
         User Find(string userName);
         IQueryable<User> FindPageList(int pageIndex, int pageSize, out int totalRecord, int order);
     }

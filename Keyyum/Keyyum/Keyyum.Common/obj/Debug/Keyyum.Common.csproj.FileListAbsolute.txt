@@ -3,3 +3,8 @@ c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.Common\bin\D
 c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.Common\obj\Debug\Keyyum.Common.csprojResolveAssemblyReference.cache
 c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.Common\obj\Debug\Keyyum.Common.dll
 c:\users\liangl\documents\visual studio 2013\Projects\Keyyum\Keyyum.Common\obj\Debug\Keyyum.Common.pdb
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.Common\bin\Debug\Keyyum.Common.dll
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.Common\bin\Debug\Keyyum.Common.pdb
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.Common\obj\Debug\Keyyum.Common.csprojResolveAssemblyReference.cache
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.Common\obj\Debug\Keyyum.Common.dll
+D:\Users\Liangl\Documents\Demos\Keyyum\Keyyum\Keyyum.Common\obj\Debug\Keyyum.Common.pdb

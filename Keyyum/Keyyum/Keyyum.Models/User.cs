@@ -26,9 +26,9 @@ namespace Keyyum.Models
        /// <summary>
        /// 用户组ID
        /// </summary>
-       [Required(ErrorMessage = "必填")]
-       [Display(Name = "用户组ID")]
-       public Guid GroupID { get; set; }
+       //[Required(ErrorMessage = "必填")]
+       //[Display(Name = "用户组ID")]
+//       public Guid GroupID { get; set; }
        
        /// <summary>
        /// 显示名称
@@ -79,7 +79,7 @@ namespace Keyyum.Models
        [Display(Name="上次登陆的IP地址")]
        public string LoginIP { get; set; }
 
-       public virtual UserGroup Group { get; set; }
+       public virtual Role Group { get; set; }
 
 
     }

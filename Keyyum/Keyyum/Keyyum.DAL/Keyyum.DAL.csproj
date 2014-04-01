@@ -55,9 +55,7 @@
     <Compile Include="KeyyumDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RepositoryFactory.cs" />
-    <Compile Include="UserConfigRepository.cs" />
     <Compile Include="UserRepository.cs" />
-    <Compile Include="UserGroupRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Keyyum.IDAL\Keyyum.IDAL.csproj">

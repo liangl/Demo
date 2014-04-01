@@ -57,14 +57,14 @@ namespace Keyyum.DAL
             var _resultExpression = Expression.Call(typeof(Queryable), _methodName, new Type[] { source.ElementType, _property.Type }, source.Expression, Expression.Quote(_lambda));
             return source.Provider.CreateQuery<T>(_resultExpression);
         }
-        public IQueryable<T> FindList<S>(Expression<Func<T, bool>> whereLamdba,string orderName, bool isAsc)
+        public IQueryable<T> FindList(Expression<Func<T, bool>> whereLamdba,string orderName, bool isAsc)
         {
             var _list = nContext.Set<T>().Where<T>(whereLamdba);
             _list = OrderBy(_list, orderName, isAsc);
             return _list;
         }
 
-        public IQueryable<T> FindPageList<S>(int pageIndex, int pageSize, out int totalRecord, Expression<Func<T, bool>> whereLamdba,string orderName, bool isAsc)
+        public IQueryable<T> FindPageList(int pageIndex, int pageSize, out int totalRecord, Expression<Func<T, bool>> whereLamdba,string orderName, bool isAsc)
         {
             var _list = nContext.Set<T>().Where<T>(whereLamdba);
             totalRecord = _list.Count();
